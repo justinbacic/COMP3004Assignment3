@@ -1,0 +1,5 @@
+#ifndef BUILDINGSPECS_H
+#define BUILDINGSPECS_H
+#define NUM_FLOORS 7;
+#define NUM_ELEVATORS 3;
+#endif // BUILDINGSPECS_H
